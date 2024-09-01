@@ -8,4 +8,10 @@ houseaccount.ipynbを自ら改造して、自分なりのプログラムにし�
 
 使い方は簡単。
 
-Githubにあるhouseaccount.ipynbとipynbのセル内に記載された公開用ファイル「Houseaccount_Sheet」と「Expenditure_Sheet」を自身のGoogleDriveにアップロードすれば使えます。というものの、勘定科目やHouseaccount_Sheetの入力方法やipynbのセル内のpythonコードを読み解かないとまったく使えないと思います・・・。
+Githubにあるhouseaccount.ipynbとipynbのセル内に記載された公開用ファイル「Houseaccount_Sheet」と「Expenditure_Sheet」を自身のGoogleDriveにアップロードすれば使えます。というものの、勘定科目やHouseaccount_Sheetの入力方法やipynbのセル内のpythonコードを読み解かないとまったく使えないと思います・・・（笑）
+
+
+自己満足に過ぎないけれど、これも一つの投資活動の一環だとは考えていて、収入が少ない分、投資と生活の両輪をうまくするためには家計簿が円滑にできることが大切だと思っていて、すでに５年以上家計簿をつけてきたけど、やっともうすぐで自分なりの家計簿システムが作りあげれそうではある。
+
+モンチ
+
