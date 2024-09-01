@@ -9,6 +9,7 @@ Expenditure_Sheetに書きだされるというだけのものです。
 
 houseaccount.ipynbを自ら改造して、自分なりのプログラムにしてください。
 ちなみに、残念ながらこのプログラムは、Excelで簡単にできることです。
-単なる自己満足ですが、もし利用できそうならお使いください（＾＾）/
+
+このGithubにアップされたhouseaccount.ipynbと、ipynb内に公開リンクを書き込んだHouseaccount_SheetとExpenditure_Sheetを自分のGoogleDriveにアップロードしてもらえば使えます。まあ、使わんだろうけど（笑）
 
 
