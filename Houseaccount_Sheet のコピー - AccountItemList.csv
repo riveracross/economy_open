@@ -1,0 +1,83 @@
+Account Item List,,,,,,,
+,,,,,,,
+,,大科目,Unit,勘定科目,Account Item,Code,
+,,,,,,,
+財産対照表勘定科目　Assets Sheet (AS) Account Title　,,,,,,,
+左方科目,増加なら左　減少なら右,資産,Assets,,,,
+,,現金,Cash,現金,Hcash,A01,
+,,,,現金,Ycash,A02,
+,,預金,SavingAccount,銀行１,Osav,A03,
+,,,,銀行２,Rsav,A04,
+,,,,銀行３,Nsav,A05,
+,,,,銀行４,Fsav,A06,
+,,,,郵便貯金１,Nyub,A07,
+,,,,郵便貯金２,Hyub,A08,
+,,ポイント,Point,ポイント,Point,A09,Point
+,,有価証券取得額,Stock,保有株の取得額,Stock,A10,Stock
+,,有価証券評価差額金,Stock Valuation,保有株の時価評価額,Svalu,A11,Stock Valuation
+,,不動産,RealEstate,建物,Build,A12,Building
+,,,,土地,Land,A13,Land
+,,売却可能な高額品,ExpensiveItem,車両,Vehi,A14,Vehicle
+右方科目,増↓右　減↓左,負債,Debit,,,,
+,,クレジット,Credit,クレジット１,Rcard,D01,
+,,,,クレジット２,Acard,D02,
+,,,,クレジット３,Mcard,D03,
+,,,,クレジット４,Ycash（読み替え）,D04,
+,,正味財産,NetAssets,,,,
+,,,,留保財産,Rassets,N01,Reserved assets
+,,,,利益剰余金,Rearning,N02,Retained eraning
+,,,,有価証券評価差額金,Vdif,N03,Valuation difference on available-for-sale securities
+,,,,,,,
+,,,,,,,
+消費損益計算書勘定科目　Consumption Income Statement (CIS) Account Title,,,,,,,
+右方科目,増↓右　減↓左,収入,Income,,,,
+,,給与,MonthlySalary,給与,MS,I01,Monthly salary
+,,,,他収入,YM,I02,
+,,副業収入,SubIncome,副業収入,SI,I03,Sub income
+,,投資収入,InvestingIcome,配当金,DI,I04,Dividend
+,,,,有価証券売却益（差益）,CG,I05,Capital gain
+,,臨時収入,ExtraordinaryIncome,ボーナス,BN,I06,Bonus
+,,,,その他の臨時収入,OI,I07,Other income
+左方科目,増↓左　減↓右,支出,Cost,,,,
+,,控除,Deduction,源泉徴収（所得・住民・社会保険）控除,cded,C01,Common Deduction
+,,,,固定資産税,ftax,C02,Fixed Asset Tax
+,,,,自動車税,ctax,C03,Car tax
+,,固定費,Fixed Expenses,家賃,rent,C04,Rent
+,,,,電話,tel,C05,Telephone
+,,,,プロバイダー,prov,C06,Provider
+,,,,NHK受信料,nhk,C07,NHK 
+,,,,学校費,sch,C08,School
+,,,,教育費,edu,C09,Education
+,,,,保険１,yins,C10,
+,,,,保険２,nins,C11,
+,,,,保険３,hins,C12,
+,,変動費,Variable Expenses,食費,food,C13,Food
+,,,,外食費,resta,C14,Restaurant
+,,,,水道,water,C15,Water
+,,,,ガス,gas,C16,Gas
+,,,,電気,elec,C17,Electricity
+,,,,灯油,kero,C18,Kerocine
+,,,,健康維持費,health,C19,Health
+,,,,日用品費,dneeds,C20,Daily needs
+,,,,ガソリン,gasoline,C21,Gasoline
+,,,,交通費,各科目に含める,C22,Transoportation
+,,,,車両維持費,vment,C23,Vehicle mentainance
+,,,,子供費,child,C24,Child
+,,,,文化費,culture,C25,Culuture 
+,,,,交際費,social,C26,Social
+,,,,衣料費,cloth,C27,Cloth
+,,,,学習費,study,C28,Study
+,,,,仕事費,job,C29,Job
+,,,,手づくり費用,hmade,C30,Hmade
+,,,,庭づくり費用,garden,C31,Garden
+,,,,親の介護費用,care,C32,Care
+,,,,雑費,petyy,C33,Petty
+,,特別支出,ExtraordinaryExpenses,副業コスト,scost,C34,Sub cost
+,,,,投資コスト,icost（株取得額含まず手数料等）,C35,Investing cost
+,,,,有価証券売却損（差損）,closs,C36,Capital loss
+,,,,臨時支出（旅行、家具、家電、家修繕等）,ecost,C37,Extraordinary cost
+,,月次収支,MonthlyBalance,,,,
+右方科目,増右減左,手取収入,NetSalary,手取収入,NS,M01,Net salary
+,,可処分所得,DisposableIncome,可処分所得,DI,M02,Disposal income
+,,給与内貯蓄,PayrollSaving,給与内貯蓄,PS,M03,Payroll saving
+,,月次貯蓄,MonthlySaving,月次貯蓄(利益剰余金）,RE,M04,Retained earning
