@@ -1,15 +1,11 @@
-# economy_open
 複式簿記による家計簿システムです。
 今のところ、支出表だけが完成しました。
 
-GoogleCoraboratoryのhouseaccount.ipynbを実行すれば、
-GoogleDriveに保存されたHouseaccount_Sheetというスプレッドシートを読み込み、
-Pythonコードにより集計された支出データがGoogleDriveに保存されている、
-Expenditure_Sheetに書きだされるというだけのものです。
+GoogleCoraboratoryのhouseaccount.ipynbを実行すれば、GoogleDriveに保存されたHouseaccount_Sheetというスプレッドシートを読み込み、Pythonコードにより集計された支出データがGoogleDriveに保存されているExpenditure_Sheetに書き出されるというだけのものです。
 
-houseaccount.ipynbを自ら改造して、自分なりのプログラムにしてください。
-ちなみに、残念ながらこのプログラムは、Excelで簡単にできることです。
+houseaccount.ipynbを自ら改造して、自分なりのプログラムにしてください。ちなみに、残念ながらこのプログラムはExcelで簡単にできることです。
+単なる自己満足ですが、もし利用できそうならお使いください（＾＾）/
 
-このGithubにアップされたhouseaccount.ipynbと、ipynb内に公開リンクを書き込んだHouseaccount_SheetとExpenditure_Sheetを自分のGoogleDriveにアップロードしてもらえば使えます。まあ、使わんだろうけど（笑）
+使い方は簡単。
 
-
+Githubにあるhouseaccount.ipynbとipynbのセル内に記載された公開用ファイル「Houseaccount_Sheet」と「Expenditure_Sheet」を自身のGoogleDriveにアップロードすれば使えます。というものの、勘定科目やHouseaccount_Sheetの入力方法やipynbのセル内のpythonコードを読み解かないとまったく使えないと思います・・・。
